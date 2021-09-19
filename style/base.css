@@ -1,0 +1,14 @@
+/* Base */
+
+/* Body */
+body {
+	font-family     : 'Lato', 'sans-serif', 'Emoji';
+	font-size       : 17rem;
+	line-height     : 1.5;
+	font-weight     : 300;
+	color           : #333333;
+	max-width       : 1250px;
+	margin          : 0 auto;
+	padding         : 50rem 30rem;
+}
+
